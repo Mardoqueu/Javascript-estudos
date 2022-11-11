@@ -1,8 +1,8 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1667827749257" ID="ID_1282953528" MODIFIED="1667829636383" TEXT="Overview ">
+<node CREATED="1667827749257" ID="ID_1282953528" MODIFIED="1668104748900" TEXT="Overview ">
 <font BOLD="true" NAME="SansSerif" SIZE="20"/>
-<node CREATED="1667828255367" ID="ID_80259055" MODIFIED="1667829642662" POSITION="right" TEXT="What is JavaScript">
+<node CREATED="1667828255367" ID="ID_80259055" MODIFIED="1668104778012" POSITION="right" TEXT="What is JavaScript">
 <font BOLD="true" NAME="SansSerif" SIZE="16"/>
 <node CREATED="1667828311638" ID="ID_1003681304" MODIFIED="1667828312182" TEXT="multi-paradigm, dynamic language with types and operators, standard built-in objects, and methods. Its syntax is based on the Java and C languages ">
 <node CREATED="1667828328332" ID="ID_1430870976" MODIFIED="1667828328694" TEXT="supports ">
